@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hours should render 4 rectangle  1`] = `
+<div>
+  <div
+    class="flex flex-row justify-center items-center w-18-rem bg-grey br-rounded css-w1m3xx-Hours"
+  >
+    <div
+      class="h-2-rem border br-rounded bg-orange css-xhgmcw-Hours"
+    />
+    <div
+      class="h-2-rem border br-rounded bg-grey-dark css-xhgmcw-Hours"
+    />
+    <div
+      class="h-2-rem border br-rounded bg-grey-dark css-xhgmcw-Hours"
+    />
+    <div
+      class="h-2-rem border br-rounded bg-grey-dark css-xhgmcw-Hours"
+    />
+  </div>
+  <div
+    class="flex flex-column items-center bg-grey css-1m94g40-Divider"
+  >
+    <p
+      class="bg-dark css-17k9y5l-Divider"
+    />
+  </div>
+</div>
+`;
